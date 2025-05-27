@@ -2,32 +2,32 @@
 E-commerce Admin API - Project Documentation
 
 
-🛍️ OVERVIEW:
+OVERVIEW:
 
 A back-end API built using Node.js and Express.js to manage an e-commerce admin dashboard. It provides endpoints to track sales, manage inventory, and register products.
 
-🚀 TECH STACK:
+ TECH STACK:
 
 1 Backend: Express.js (Node.js)
 2 Database: MongoDB (Mongoose ODM)
 3 API Type: RESTful
 4 Demo Data: Includes script to seed mock data
 
-📦 FEATURES:
+ FEATURES:
 
-1. Sales Management:
-   - Add and filter sales
-   - View revenue by day, month, year
-   - Summarize and analyze sales trends
+ Sales Management:
+    Add and filter sales
+    View revenue by day, month, year
+    Summarize and analyze sales trends
 
-2. Inventory Management:
-   - View current inventory levels
-   - Low stock alerts
-   - Update stock with historical tracking
+ Inventory Management:
+    View current inventory levels
+    Low stock alerts
+    Update stock with historical tracking
 
-3. Product Management:
-   - Add new products
-   - View all products
+ Product Management:
+   Add new products
+   View all products
 
 ⚙️ SETUP INSTRUCTIONS:
 
